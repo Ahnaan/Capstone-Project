@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Imprints</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/imprints.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+</head>
+
+<body>
+    <!-- Navbar -->
+    <section id="header">
+
+        
+            <a href="index.html"><img src="images/imprints.png" class = "logo" alt=""></a>
+            <div>
+
+                <ul id = "navbar">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="courses.html">Courses</a></li>
+                    <li><a href="teach.html"  class = "active">Teach on Imprints</a></li>
+                    <div id = "close"><i class="fa fa-times"></i></div>
+                    
+                    
+
+                </ul>
+
+            </div>
+            <div id = "mobile">
+                <i id = "bar" class="fa fa-outdent"></i>
+            </div>
+        
+
+    </section>
+
+    <!-- About banner -->
+    <section id = "banner4">
+        <h2 style="font-size: 40px;">Teach on Imprints</h2>
+        <h4>Fill the form below and get an estimated price for your course</h4>
+    </section>
+
+    <!-- Form -->
+    <section class="section-p1 section-m1" id = "form">
+    <form action="/predict" method="POST">
+        <div class="input">
+            <label for="student">Are you making your course for students?</label>
+            <br>
+            <input type="radio" id="student1" name = 'student' class="validate" value = "Yes" required>
+            <label for="Yes">Yes</label><br>
+            <input type="radio" id="student2" name = 'student' class="validate" value = "No" required>
+            <label for="No">No</label><br><br><br>
+        </div>
+        
+        <div class="input">
+            <label for="format">Which format will your courses mostly be in?</label>
+            <br>
+            <input type="radio" id="format1" name = 'format' class="validate" value = "Video" required>
+            <label for="Video">Video</label><br>
+            <input type="radio" id="format2" name = 'format' class="validate" value = "Audio" required>
+            <label for="Audio">Audio</label><br>
+            <input type="radio" id="format3" name = 'format' class="validate" value = "Document" required>
+            <label for="Document">Document</label><br>
+            <input type="radio" id="format4" name = 'format' class="validate" value = "None of the above" required>
+            <label for="None of the above">None of the above</label><br><br><br>
+        </div>
+        
+        <div class="input">
+            <label for="instructor">Are you providing this course on behalf of an organization or are you an individual instructor?</label>
+            <br>
+            <input type="radio" id="instructor1" name = 'instructor' class="validate" value = "Organizations" required>
+            <label for="Organizations">Organization</label><br>
+            <input type="radio" id="instructor2" name = 'instructor' class="validate" value = "Individual Instructors" required>
+            <label for="Individual Instructors">Individual Instructor</label><br><br><br>
+        </div>
+
+        <div class="input"></div>
+            <label for="hours">How many hours do you expect your students to dedicate per week?<br>(Choose between 1 to 10)</label><br>
+            <input type="number" id="hours" name="hours" min="1" max="10" required><br><br><br>
+        </div>
+
+        <div class="input"></div>
+            <label for="courses">How many courses do you expect your students to study at a time?<br>(Choose between 1 to 5)</label><br>
+            <input type="number" id="hours" name="hours" min="1" max="5" required><br><br><br>
+        </div>
+
+        <div class="input">
+            <label for="categories">Choose a category for your course</label><br>
+            <select id="categories" name="categories" required>
+                <option value="Business">Business</option>
+                <option value="Finance & Accounting">Finance &amp; Accounting</option>
+                <option value="IT & Software">IT &amp; Software</option>
+                <option value="Personality Development">Personality Development</option>
+                <option value="Design">Design</option>
+                <option value="Photography & Video">Photography &amp; Video</option>
+                <option value="Health & Fitness">Health &amp; Fitness</option>
+                <option value="Data Science">Data Science</option>
+            </select>
+            <br><br>
+        </div>
+
+        <div class="submit">
+            <button type="submit">Predict</button>
+        </div><br>
+        <br>
+
+    </form>
+    </section>
+
+    {{ pred }}
+
+
+    <footer class = "section-p1">
+        <div class = "col">
+            <img src="images/imprints.png" alt="">
+            
+
+        </div>
+        <div class="col">
+            <h4>Quick Links</h4>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="courses.html">Courses</a></li>
+                <li><a href="courses.html">Feedback</a></li>
+            </ul>
+        </div>
+        <div class="col">
+            <h4>Follow Us</h4>
+            <div class="icon">
+                <i class="fa fa-facebook-official"></i>
+                <i class="fa fa-twitter"></i>
+                <i class="fa fa-instagram"></i>
+                <i class="fa fa-pinterest"></i>
+                <i class="fa fa-youtube-play"></i>
+            </div>
+        </div>
+
+        <div class="copyright">
+            <p>© 2022, Imprints - Liberty at its best</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    
+</body>
+</html>

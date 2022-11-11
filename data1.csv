@@ -1,0 +1,110 @@
+Timestamp,Student,Format,Instructors,Hours per week,No. of courses,Categories,Price Range
+07-11-2022 13:44,Yes,Video,Individual Instructors,7,3,Health & Fitness, 499 - 599
+07-11-2022 13:45,Yes,Video,Individual Instructors,5,2,Data Science, 499 - 599
+07-11-2022 13:46,Yes,Video,Individual Instructors,8,2,Data Science, 499 - 599
+07-11-2022 13:46,Yes,Document,Individual Instructors,10,2,Data Science, 499 - 599
+07-11-2022 13:47,No,Audio,Individual Instructors,5,1,Personality Development, 1000 +
+07-11-2022 13:47,No,Video,Individual Instructors,5,2,IT & Software, 1000 +
+07-11-2022 13:48,No,Video,Individual Instructors,8,1,IT & Software, 1000 +
+07-11-2022 13:50,Yes,Video,Individual Instructors,10,5,Health & Fitness, 899 -  999
+07-11-2022 13:51,No,Video,Individual Instructors,3,1,Photography & Video, 499 - 599
+07-11-2022 13:51,Yes,None of the above,Individual Instructors,1,1,Personality Development, 1000 +
+07-11-2022 13:53,Yes,Video,Organizations,3,1,Business, 499 - 599
+07-11-2022 13:54,Yes,Video,Individual Instructors,4,1,Data Science, 499 - 599
+07-11-2022 13:56,Yes,Video,Individual Instructors,10,3,Data Science, 899 -  999
+07-11-2022 13:56,Yes,Video,Organizations,10,3,Data Science, 699 -  799
+07-11-2022 13:57,Yes,Document,Organizations,7,2,IT & Software, 699 -  799
+07-11-2022 13:58,No,Audio,Organizations,1,5,Finance & Accounting, 699 -  799
+07-11-2022 14:00,Yes,Video,Organizations,6,1,IT & Software, 899 -  999
+07-11-2022 14:00,No,Video,Organizations,5,1,Personality Development, 1000 +
+07-11-2022 14:00,Yes,Document,Individual Instructors,10,2,Design, 699 -  799
+07-11-2022 14:01,Yes,Video,Organizations,5,2,Data Science, 699 -  799
+07-11-2022 14:01,Yes,Audio,Individual Instructors,4,1,Data Science, 899 -  999
+07-11-2022 14:02,Yes,None of the above,Individual Instructors,10,5,Photography & Video, 1000 +
+07-11-2022 14:03,No,Audio,Organizations,4,4,Photography & Video, 699 -  799
+07-11-2022 14:03,Yes,Document,Organizations,7,2,Business, 699 -  799
+07-11-2022 14:06,Yes,Document,Organizations,10,1,Data Science, 699 -  799
+07-11-2022 14:07,Yes,Document,Individual Instructors,10,3,Data Science, 1000 +
+07-11-2022 14:07,Yes,Video,Individual Instructors,8,2,IT & Software, 699 -  799
+07-11-2022 14:08,Yes,Video,Individual Instructors,4,1,Data Science, 499 - 599
+07-11-2022 14:08,No,Video,Organizations,5,2,IT & Software, 499 - 599
+07-11-2022 14:09,Yes,Video,Organizations,4,2,Business, 499 - 599
+07-11-2022 14:09,Yes,Video,Individual Instructors,3,1,Personality Development, 499 - 599
+07-11-2022 14:12,Yes,Video,Individual Instructors,5,1,Personality Development, 899 -  999
+07-11-2022 14:12,No,Document,Organizations,2,1,Business, 499 - 599
+07-11-2022 14:14,No,Video,Organizations,7,1,Health & Fitness, 1000 +
+07-11-2022 14:14,Yes,Video,Individual Instructors,7,1,Business, 1000 +
+07-11-2022 14:15,Yes,Document,Organizations,3,1,Health & Fitness, 1000 +
+07-11-2022 14:17,Yes,Video,Individual Instructors,2,1,Data Science, 499 - 599
+07-11-2022 14:18,No,Document,Organizations,2,1,Finance & Accounting, 1000 +
+07-11-2022 14:18,Yes,Video,Organizations,10,1,Design, 699 -  799
+07-11-2022 14:19,Yes,Audio,Individual Instructors,4,1,Design, 1000 +
+07-11-2022 14:19,Yes,Video,Individual Instructors,1,1,Data Science, 499 - 599
+07-11-2022 14:21,Yes,Video,Individual Instructors,1,1,Health & Fitness, 499 - 599
+07-11-2022 14:22,Yes,Audio,Organizations,6,3,Personality Development, 899 -  999
+07-11-2022 14:28,No,Video,Organizations,6,2,IT & Software, 1000 +
+07-11-2022 14:29,No,Document,Individual Instructors,3,1,Personality Development, 899 -  999
+07-11-2022 14:36,Yes,Video,Individual Instructors,7,1,Data Science, 499 - 599
+07-11-2022 14:40,Yes,Video,Individual Instructors,6,1,IT & Software, 499 - 599
+07-11-2022 14:41,Yes,Video,Individual Instructors,5,2,Design, 499 - 599
+07-11-2022 14:44,Yes,Video,Individual Instructors,3,2,IT & Software, 499 - 599
+07-11-2022 14:44,Yes,Video,Individual Instructors,5,1,IT & Software, 499 - 599
+07-11-2022 14:48,Yes,Document,Organizations,8,1,Data Science, 499 - 599
+07-11-2022 14:50,Yes,Video,Organizations,7,2,Data Science, 699 -  799
+07-11-2022 14:50,Yes,Video,Individual Instructors,7,5,Data Science, 699 -  799
+07-11-2022 14:52,Yes,Video,Organizations,6,1,Data Science, 699 -  799
+07-11-2022 14:54,Yes,Video,Organizations,5,2,Finance & Accounting, 499 - 599
+07-11-2022 14:55,Yes,Video,Individual Instructors,8,1,Business, 1000 +
+07-11-2022 15:00,Yes,Document,Individual Instructors,10,1,Design, 1000 +
+07-11-2022 15:05,Yes,Document,Organizations,10,4,IT & Software, 1000 +
+07-11-2022 15:07,Yes,None of the above,Individual Instructors,7,1,Design, 699 -  799
+07-11-2022 15:14,Yes,Video,Individual Instructors,2,1,Design, 1000 +
+07-11-2022 15:18,Yes,Video,Organizations,4,1,Data Science, 699 -  799
+07-11-2022 15:20,Yes,Video,Organizations,4,1,Finance & Accounting, 499 - 599
+07-11-2022 15:25,No,Video,Individual Instructors,1,1,Finance & Accounting, 499 - 599
+07-11-2022 15:29,No,Video,Individual Instructors,1,5,Business, 499 - 599
+07-11-2022 15:34,Yes,Document,Organizations,9,2,Design, 1000 +
+07-11-2022 15:43,Yes,Video,Individual Instructors,5,2,Business, 699 -  799
+07-11-2022 15:55,Yes,Video,Individual Instructors,4,2,Business, 499 - 599
+07-11-2022 15:59,No,Video,Individual Instructors,1,1,Personality Development, 1000 +
+07-11-2022 16:05,Yes,Video,Individual Instructors,6,2,Data Science, 899 -  999
+07-11-2022 16:09,Yes,Video,Organizations,4,1,Finance & Accounting, 699 -  799
+07-11-2022 16:26,Yes,None of the above,Individual Instructors,5,5,Design, 499 - 599
+07-11-2022 16:36,Yes,Video,Individual Instructors,10,1,Design, 499 - 599
+07-11-2022 16:43,No,Video,Organizations,7,2,Design, 899 -  999
+07-11-2022 17:02,Yes,Video,Individual Instructors,5,3,IT & Software, 499 - 599
+07-11-2022 17:11,Yes,Video,Individual Instructors,6,1,Finance & Accounting, 499 - 599
+07-11-2022 17:13,Yes,Video,Organizations,10,4,Photography & Video, 1000 +
+07-11-2022 17:15,Yes,Video,Individual Instructors,6,3,Business, 1000 +
+07-11-2022 17:16,Yes,Video,Organizations,5,2,Finance & Accounting, 699 -  799
+07-11-2022 17:18,Yes,None of the above,Organizations,2,1,Photography & Video, 499 - 599
+07-11-2022 17:23,Yes,Video,Organizations,3,2,Finance & Accounting, 1000 +
+07-11-2022 17:38,No,Video,Individual Instructors,1,2,Photography & Video, 499 - 599
+07-11-2022 17:43,No,Video,Organizations,3,2,IT & Software, 699 -  799
+07-11-2022 18:13,Yes,Video,Organizations,5,2,IT & Software, 499 - 599
+07-11-2022 18:26,Yes,Video,Organizations,4,3,Business, 899 -  999
+07-11-2022 18:28,Yes,Video,Individual Instructors,10,4,Business, 699 -  799
+07-11-2022 18:30,Yes,Video,Individual Instructors,8,4,Finance & Accounting, 699 -  799
+07-11-2022 18:42,Yes,Video,Individual Instructors,5,2,Data Science, 699 -  799
+07-11-2022 19:10,Yes,None of the above,Individual Instructors,7,3,Business, 699 -  799
+07-11-2022 19:22,Yes,Video,Organizations,3,1,Business, 1000 +
+07-11-2022 19:23,Yes,Video,Organizations,2,1,IT & Software, 499 - 599
+07-11-2022 20:31,Yes,Video,Individual Instructors,1,2,Finance & Accounting, 499 - 599
+07-11-2022 20:32,Yes,Audio,Individual Instructors,2,2,Design, 699 -  799
+07-11-2022 20:46,No,Video,Organizations,5,2,Finance & Accounting, 1000 +
+07-11-2022 20:54,Yes,Video,Individual Instructors,3,1,Data Science, 1000 +
+07-11-2022 21:03,Yes,Video,Individual Instructors,6,2,Business, 899 -  999
+07-11-2022 22:00,No,Video,Individual Instructors,2,1,Data Science, 699 -  799
+07-11-2022 22:20,No,Video,Individual Instructors,5,1,Health & Fitness, 699 -  799
+07-11-2022 22:35,Yes,Video,Individual Instructors,6,2,Health & Fitness, 1000 +
+07-11-2022 22:57,Yes,Document,Organizations,5,2,IT & Software, 1000 +
+08-11-2022 01:15,Yes,Document,Organizations,4,1,Personality Development, 499 - 599
+08-11-2022 01:16,No,Video,Organizations,3,1,Business, 699 -  799
+08-11-2022 01:17,No,Document,Individual Instructors,4,2,Finance & Accounting, 699 -  799
+08-11-2022 01:17,Yes,Video,Organizations,5,1,Design, 699 -  799
+08-11-2022 08:29,No,Video,Individual Instructors,4,2,Finance & Accounting, 1000 +
+08-11-2022 12:10,No,Video,Organizations,2,1,Finance & Accounting, 1000 +
+08-11-2022 12:15,No,Video,Organizations,4,1,Finance & Accounting, 499 - 599
+08-11-2022 16:03,No,Video,Individual Instructors,4,1,IT & Software, 699 -  799
+08-11-2022 16:07,No,Video,Individual Instructors,5,2,IT & Software, 1000 +
+08-11-2022 20:48,No,Video,Individual Instructors,2,1,Business, 1000 +

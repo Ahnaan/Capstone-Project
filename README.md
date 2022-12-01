@@ -4,3 +4,9 @@ Throughout the pandemic, we as students struggled with online lectures as our me
 Websites like Udemy and Coursera helped us learn throughout the pandemic with Coursera even providing free courses without certifications. With the internet access with us always, we could learn at our own pace.
 While exploring these websites and learning the essentials of data science, I came across a method through which anyone can teach on these websites. But these courses even if not trending were expensive. Clearly there was a gap in understanding the consumers. Here I thought about my capstone idea.
 Why not develop a tool for teachers on these websites which can help predict the price range of their courses using data science?
+
+
+<h1><b>Research Methodology</b><h1>
+
+The main aim of this project was to understand the consumer behaviour on websites that provide online courses which could be done by analysing the data. At the same time, I wanted to use that data to develop my tool.
+So, I had to collect the data accordingly. We used a google form which has been linked in our website to collect data from users.

@@ -13,6 +13,6 @@ So, I had to collect the data accordingly. We used a google form which has been 
 
 <h1><b>Project Distribution</b></h1>
 
-The pdf is the final report submitted after making this project.
-The ipynb file has the tool development code and model building.
-The html files contain the website.
+The pdf is the final report submitted after making this project.<br>
+The ipynb file has the tool development code and model building.<br>
+The html files contain the website.<br>

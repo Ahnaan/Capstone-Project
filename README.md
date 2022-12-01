@@ -6,7 +6,7 @@ While exploring these websites and learning the essentials of data science, I ca
 Why not develop a tool for teachers on these websites which can help predict the price range of their courses using data science?
 
 
-<h1><b>Research Methodology</b><h1>
+<h1><b>Research Methodology</b></h1>
 
 The main aim of this project was to understand the consumer behaviour on websites that provide online courses which could be done by analysing the data. At the same time, I wanted to use that data to develop my tool.
 So, I had to collect the data accordingly. We used a google form which has been linked in our website to collect data from users.
